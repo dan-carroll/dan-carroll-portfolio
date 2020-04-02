@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Why I'm Awesome?** I am a _tremendous_ problem solver. I _relate_ very well with people. And I am _excellent_ at discussing technical knwledge with others whatever their level of expertise is.
