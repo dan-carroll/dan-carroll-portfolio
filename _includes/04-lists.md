@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Coding
+* Tinkering with Electronics and Control boards
+* Gardening
+* Nature
