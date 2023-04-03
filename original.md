@@ -1,5 +1,6 @@
 ---
 layout: default
+page: original
 ---
 
 {% include 01-name.md %}
