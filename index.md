@@ -18,3 +18,6 @@ page: index
 And software at all levels needs access to data. I have created solutions with flat file data to hardware endpoint acquisition to personal databases and enterprise level data systems. Data keeps our world operating.
 
 I am also into hardware. From electronics to controllers to networks and robotics. Technology in all of it's implementations is my jam.
+
+More about me is available at my [About Me](https://dan-carroll.github.io/about/) and [Bio](https://dan-carroll.github.io/dan-carroll-bio/) pages. [Return to my home page.](https://dan-carroll.github.io/)
+
