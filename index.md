@@ -13,3 +13,4 @@ page: index
      class="img-align-center"
      style="border-radius: 25px; ">
 
+**I am a full-stack application and web developer.** My personal tagline is "I'd Rather Be Coding". I love the freedom, creativity, and instant gratification from developing an idea to crafting a solution to seeing it actually working.
