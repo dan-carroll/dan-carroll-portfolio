@@ -3,12 +3,13 @@
 
 @import "{{ site.theme }}";
 
-.text-align-center {
+h1 {
     text-align: center;
   }
 
-.img-align-center {
+img {
     display: block;
     margin-left: auto;
     margin-right: auto;
   }
+  
