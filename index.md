@@ -14,3 +14,7 @@ page: index
      style="border-radius: 25px; ">
 
 **I am a full-stack application and web developer.** My personal tagline is "I'd Rather Be Coding". I love the freedom, creativity, and instant gratification from developing an idea to crafting a solution to seeing it actually working.
+
+And software at all levels needs access to data. I have created solutions with flat file data to hardware endpoint acquisition to personal databases and enterprise level data systems. Data keeps our world operating.
+
+I am also into hardware. From electronics to controllers to networks and robotics. Technology in all of it's implementations is my jam.
