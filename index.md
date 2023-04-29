@@ -21,3 +21,5 @@ I am also into hardware. From electronics to controllers to networks and robotic
 
 More about me is available at my [About Me](https://dan-carroll.github.io/about/) and [Bio](https://dan-carroll.github.io/dan-carroll-bio/) pages. [Return to my home page.](https://dan-carroll.github.io/)
 
+{% include portfolio-section.html %}
+
