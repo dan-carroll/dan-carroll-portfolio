@@ -25,7 +25,7 @@ page: projects
   <div class="pf-column">
     <div class="pf-card">
     
-      <a href="https://dan-carroll.github.io/dan-carroll-bio/" alt="my bio page">
+      <a href="https://dan-carroll.github.io/dan-carroll-bio/" alt="my bio page">My BIO Page</a>
     </div>
   </div>
   <div class="pf-column">
