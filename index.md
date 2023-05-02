@@ -13,13 +13,13 @@ page: index
      class="img-align-center"
      style="border-radius: 25px; ">
 
-**I am a full-stack application and web developer.** My personal tagline is "I'd Rather Be Coding". I love the freedom, creativity, and instant gratification from developing an idea to crafting a solution to seeing it actually working.
-
-And software at all levels needs access to data. I have created solutions with flat file data to hardware endpoint acquisition to personal databases and enterprise level data systems. Data keeps our world operating.
-
-I am also into hardware. From electronics to controllers to networks and robotics. Technology in all of it's implementations is my jam.
-
-More about me is available at my [About Me](https://dan-carroll.github.io/about/) and [Bio](https://dan-carroll.github.io/dan-carroll-bio/) pages. [Return to my home page.](https://dan-carroll.github.io/)
+<details>
+<summary style="font-weight: bold;">I am a full-stack application and web developer.</summary>
+<p>My personal tagline is "I'd Rather Be Coding". I love the freedom, creativity, and instant gratification from developing an idea to crafting a solution to seeing it actually working.</p>
+<p>And software at all levels needs access to data. I have created solutions with flat file data to hardware endpoint acquisition to personal databases and enterprise level data systems. Data keeps our world operating.</p>
+<p>I am also into hardware. From electronics to controllers to networks and robotics. Technology in all of it's implementations is my jam.</p>
+<p>More about me is available at my [About Me](https://dan-carroll.github.io/about/) and [Bio](https://dan-carroll.github.io/dan-carroll-bio/) pages. [Return to my home page.](https://dan-carroll.github.io/)</p>
+</details>
 
 {% include portfolio-section.html %}
 
