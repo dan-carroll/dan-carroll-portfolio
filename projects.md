@@ -18,7 +18,7 @@ page: projects
 <div class="pf-row">
   <div class="pf-column">
     <div class="pf-card">
-      <img href="{{ '/assets/images/dc-github-io.png' | relative_url }}" width="200px">
+      <img href="{{ '/assets/images/dc-github-io.png' | relative_url }}" width="200px" height="200px">
       <a href="https://dan-carroll.github.io/" alt="home page">My Home Page</a>
     </div>
   </div>
