@@ -14,8 +14,7 @@ page: projects
         </header>    
         <img src="{{ '/assets/images/dc-github-io.png' | relative_url }}" alt="home page screen shot">
         <div class="content">
-            <p> The idea of...</p>
-            <p> <a href="https://dan-carroll.github.io/">My Home Page</a> </p>
+            <p> <a href="https://dan-carroll.github.io/">View My Home Page</a> </p>
         </div>  
     </article>
             
@@ -25,9 +24,8 @@ page: projects
         </header>    
         <img src="#" alt="#">
         <div class="content">
-            <p><a href="https://dan-carroll.github.io/dan-carroll-bio/">My BIO Page</a></p>
+            <p><a href="https://dan-carroll.github.io/dan-carroll-bio/">View My BIO Page</a></p>
         </div>
-        <footer>I have a footer!</footer>
     </article>
             
     <article class="card">
@@ -36,9 +34,8 @@ page: projects
         </header>
         <img src="#" alt="#">
         <div class="content">
-            <p><a href="https://dan-carroll.github.io/about/">My About Me Page</a></p>
+            <p><a href="https://dan-carroll.github.io/about/">View My About Me Page</a></p>
         </div>
-        <footer>I have a footer!</footer>
     </article>
 
     <article class="card">
@@ -47,7 +44,7 @@ page: projects
         </header>
         <img src="{{ './assets/images/Dan Carroll on GitHub 2.png' | relative_url }}" alt="Dan Carroll on github">
         <div class="content">
-            <p><a href="https://dan-carroll.github.io/dan-carroll-portfolio/">My Portfolio Page</a></p>
+            <p><a href="https://dan-carroll.github.io/dan-carroll-portfolio/">View My Portfolio Page</a></p>
         </div>
     </article>
 </div>

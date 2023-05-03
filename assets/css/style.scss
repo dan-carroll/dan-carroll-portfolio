@@ -29,6 +29,10 @@ dd {
     grid-template-rows: max-content 200px 1fr;
 }
 
+.card h2 {
+  padding: 0;
+}
+
 .card img {
     object-fit: cover;
     width: 100%;
