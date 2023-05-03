@@ -12,7 +12,7 @@ page: projects
         <header>
             <h2>Home Page</h2>
         </header>    
-        <img src="{{ '/assets/images/dc-github-io.png' | relative_url }}" alt="home page screen shot">
+        <img src="{{ '/assets/images/dc-github-io.small.png' | relative_url }}" alt="home page screen shot">
         <div class="content">
             <p> <a href="https://dan-carroll.github.io/">View My Home Page</a> </p>
         </div>  
@@ -25,7 +25,7 @@ page: projects
         <header>
             <h2>My BIO</h2>
         </header>    
-        <img src="#" alt="#">
+        <img src="{{ '/assets/images/Dan Carroll Bio.small.png' | relative_url }}" alt="bio page screen shot">
         <div class="content">
             <p><a href="https://dan-carroll.github.io/dan-carroll-bio/">View My BIO Page</a></p>
         </div>
@@ -43,7 +43,6 @@ page: projects
             <p><a href="https://dan-carroll.github.io/about/">View My About Me Page</a></p>
         </div>
         <footer>
-          <a href="" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
           <a href="https://github.com/dan-carroll/dan-carroll.github.io/blob/master/about.markdown" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
         </footer>
     </article>
