@@ -29,6 +29,10 @@ dd {
     grid-template-rows: max-content 200px 1fr;
 }
 
+.card header {
+  padding: 0;
+}
+
 .card h2 {
   padding: 0;
 }
