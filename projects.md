@@ -75,7 +75,7 @@ page: projects
 
     <article class="card">
         <header>
-            <h2>Navigation Examples</h2>
+            <h4>Navigation Examples</h4>
         </header>
         <img src="{{ './assets/images/pwa-examples-small.png' | relative_url }}" alt="Navigation Examples">
         <div class="content">
@@ -101,7 +101,7 @@ page: projects
 
     <article class="card">
         <header>
-            <h2>Bottle.Py Snippets</h2>
+            <h4>Bottle.Py Snippets</h4>
         </header>
         <img src="{{ './assets/images/pwa-examples-small.png' | relative_url }}" alt="Bottle.Py Snippets">
         <div class="content">
