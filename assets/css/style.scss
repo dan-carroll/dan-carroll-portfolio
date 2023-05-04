@@ -18,6 +18,10 @@ dd {
     margin-right: .5rem;
 }
 
+body footer {
+  text-align: center;
+}
+
 .cards {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
@@ -30,6 +34,7 @@ dd {
 }
 
 .card header {
+  margin: 0;
   padding: 0;
 }
 
@@ -43,7 +48,7 @@ dd {
     height: 100%;
 }
 
-article header hr {
+.card header hr {
   padding: 0;
   margin: 0;
 }
