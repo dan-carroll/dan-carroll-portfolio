@@ -51,7 +51,7 @@ page: projects
         <header>
             <h2>My Portfolio</h2>
         </header>
-        <img src="{{ './assets/images/Dan Carroll on GitHub 2.png' | relative_url }}" alt="Dan Carroll on github">
+        <img src="{{ './assets/images/github-portfolio-small.png' | relative_url }}" alt="Dan Carroll on github">
         <div class="content">
             <p class="text-align-center"><a href="https://dan-carroll.github.io/dan-carroll-portfolio/">View My Portfolio Page</a></p>
         </div>
