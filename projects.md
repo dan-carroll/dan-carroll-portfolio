@@ -59,6 +59,20 @@ page: projects
           <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
         </footer>
     </article>
+
+    <article class="card">
+        <header>
+            <h2>PWA Examples</h2>
+        </header>
+        <img src="{{ './assets/images/github-portfolio-small.png' | relative_url }}" alt="PWA Examples">
+        <div class="content">
+            <p class="text-align-center"><a href="https://dan-carroll.github.io/pwa-examples/">My PWA Examples Page</a></p>
+            <p class="text-align-center"><a href="https://github.com/dan-carroll/pwa-examples">View My PWA Examples</a></p>
+        </div>
+        <footer class="text-align-center">
+          <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+        </footer>
+    </article>
 </div>
             
     
