@@ -16,7 +16,7 @@ page: projects
         <div class="content">
             <p class="text-align-center"><a href="https://dan-carroll.github.io/">View My Home Page</a></p>
         </div>  
-        <footer>
+        <footer class="text-align-center">
           <a href="https://github.com/dan-carroll/dan-carroll.github.io" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
         </footer>
     </article>
@@ -29,7 +29,7 @@ page: projects
         <div class="content">
             <p class="text-align-center"><a href="https://dan-carroll.github.io/dan-carroll-bio/">View My BIO Page</a></p>
         </div>
-        <footer>
+        <footer class="text-align-center">
           <a href="https://github.com/dan-carroll/dan-carroll-bio" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
         </footer>
     </article>
@@ -42,7 +42,7 @@ page: projects
         <div class="content">
             <p class="text-align-center"><a href="https://dan-carroll.github.io/about/">View My About Me Page</a></p>
         </div>
-        <footer>
+        <footer class="text-align-center">
           <a href="https://github.com/dan-carroll/dan-carroll.github.io/blob/master/about.markdown" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
         </footer>
     </article>
@@ -55,7 +55,7 @@ page: projects
         <div class="content">
             <p class="text-align-center"><a href="https://dan-carroll.github.io/dan-carroll-portfolio/">View My Portfolio Page</a></p>
         </div>
-        <footer>
+        <footer class="text-align-center">
           <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
         </footer>
     </article>
