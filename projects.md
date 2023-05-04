@@ -64,7 +64,7 @@ page: projects
         <header>
             <h2>PWA Examples</h2>
         </header>
-        <img src="{{ './assets/images/github-portfolio-small.png' | relative_url }}" alt="PWA Examples">
+        <img src="{{ './assets/images/pwa-examples-small.png' | relative_url }}" alt="PWA Examples">
         <div class="content">
             <p class="text-align-center"><a href="https://dan-carroll.github.io/pwa-examples/">PWA Examples Page</a></p>
         </div>
