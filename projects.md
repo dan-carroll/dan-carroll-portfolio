@@ -72,6 +72,45 @@ page: projects
           <a href="https://github.com/dan-carroll/pwa-examples" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
         </footer>
     </article>
+
+    <article class="card">
+        <header>
+            <h2>Navigation Examples</h2>
+        </header>
+        <img src="{{ './assets/images/pwa-examples-small.png' | relative_url }}" alt="Navigation Examples">
+        <div class="content">
+            <p class="text-align-center"><a href="https://dan-carroll.github.io/navigation-examples/">Navigation Examples Page</a></p>
+        </div>
+        <footer class="text-align-center">
+          <a href="https://github.com/dan-carroll/navigation-examples" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+        </footer>
+    </article>
+
+    <article class="card">
+        <header>
+            <h2>Python Projects</h2>
+        </header>
+        <img src="{{ './assets/images/pwa-examples-small.png' | relative_url }}" alt="Python Projects">
+        <div class="content">
+            <p class="text-align-center"><a href="https://dan-carroll.github.io/python-projects/">Python Projects Page</a></p>
+        </div>
+        <footer class="text-align-center">
+          <a href="https://github.com/dan-carroll/python-projects" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+        </footer>
+    </article>
+
+    <article class="card">
+        <header>
+            <h2>Bottle.Py Snippets</h2>
+        </header>
+        <img src="{{ './assets/images/pwa-examples-small.png' | relative_url }}" alt="Bottle.Py Snippets">
+        <div class="content">
+            <p class="text-align-center"><a href="https://dan-carroll.github.io/python-bottle-snippets/">Bottle.Py Snippets Page</a></p>
+        </div>
+        <footer class="text-align-center">
+          <a href="https://github.com/dan-carroll/python-bottle-snippets" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+        </footer>
+    </article>
 </div>
             
     
