@@ -10,7 +10,7 @@ page: projects
 <div class="cards">
     <article class="card">
         <header>
-            <h2>Home Page</h2>
+            <h4>Home Page</h4>
         </header>    
         <img src="{{ '/assets/images/dc-github-io.small.png' | relative_url }}" alt="home page screen shot">
         <div class="content">
@@ -23,7 +23,7 @@ page: projects
             
      <article class="card">
         <header>
-            <h2>My BIO</h2>
+            <h4>My BIO</h4>
         </header>    
         <img src="{{ '/assets/images/Dan Carroll Bio.small.png' | relative_url }}" alt="bio page screen shot">
         <div class="content">
@@ -36,7 +36,7 @@ page: projects
             
     <article class="card">
         <header>
-            <h2>About Me</h2>
+            <h4>About Me</h4>
         </header>
         <img src="{{ './assets/images/Dan Carroll on GitHub 2.png' | relative_url }}" alt="Dan Carroll on github">
         <div class="content">
@@ -49,7 +49,7 @@ page: projects
 
     <article class="card">
         <header>
-            <h2>My Portfolio</h2>
+            <h4>My Portfolio</h4>
         </header>
         <img src="{{ './assets/images/github-portfolio-small.png' | relative_url }}" alt="Dan Carroll on github">
         <div class="content">
@@ -62,7 +62,7 @@ page: projects
 
     <article class="card">
         <header>
-            <h2>PWA Examples</h2>
+            <h4>PWA Examples</h4>
         </header>
         <img src="{{ './assets/images/pwa-examples-small.png' | relative_url }}" alt="PWA Examples">
         <div class="content">
@@ -88,7 +88,7 @@ page: projects
 
     <article class="card">
         <header>
-            <h2>Python Projects</h2>
+            <h4>Python Projects</h4>
         </header>
         <img src="{{ './assets/images/pwa-examples-small.png' | relative_url }}" alt="Python Projects">
         <div class="content">
