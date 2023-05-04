@@ -38,7 +38,7 @@ page: projects
         <header>
             <h2>About Me</h2>
         </header>
-        <img src="#" alt="#">
+        <img src="{{ './assets/images/Dan Carroll on GitHub 2.png' | relative_url }}" alt="Dan Carroll on github">
         <div class="content">
             <p class="text-align-center"><a href="https://dan-carroll.github.io/about/">View My About Me Page</a></p>
         </div>
