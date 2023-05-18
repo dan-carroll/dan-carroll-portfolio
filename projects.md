@@ -62,6 +62,19 @@ page: projects
 
     <article class="card">
         <header>
+            <h4>Online Development Books</h4>
+        </header>
+        <img src="{{ './assets/images/books.jpg' | relative_url }}" alt="books">
+        <div class="content">
+            <p class="text-align-center"><a href="https://dan-carroll.github.io/online-development-books">Online Development Books</a></p>
+        </div>
+        <footer class="text-align-center">
+          <a href="https://github.com/dan-carroll/online-development-books" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+        </footer>
+    </article>
+
+    <article class="card">
+        <header>
             <h4>PWA Examples</h4>
         </header>
         <img src="{{ './assets/images/pwa-examples-small.png' | relative_url }}" alt="PWA Examples">
