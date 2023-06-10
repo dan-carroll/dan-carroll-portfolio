@@ -77,7 +77,7 @@ page: projects
         <header>
             <h4>Awesome GitHub Projects</h4>
         </header>
-        <img src="{{ './assets/images/Awesome GitHub Projects.jpg' | relative_url }}" alt="books">
+        <img src="{{ './assets/images/Awesome GitHub Projects.png' | relative_url }}" alt="awesome github projects">
         <div class="content">
             <p class="text-align-center"><a href="">Awesome GitHub Projects</a></p>
         </div>
