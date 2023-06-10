@@ -88,6 +88,19 @@ page: projects
 
     <article class="card">
         <header>
+            <h4>HTML Games with JavaScript</h4>
+        </header>
+        <img src="{{ './assets/images/html-games-with-javascript.png' | relative_url }}" alt="HTML games with javascript">
+        <div class="content">
+            <p class="text-align-center"><a href="https://dan-carroll.github.io/html-games/">HTML Games with JavaScript</a></p>
+        </div>
+        <footer class="text-align-center">
+          <a href="https://github.com/dan-carroll/html-games" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+        </footer>
+    </article>
+
+    <article class="card">
+        <header>
             <h4>PWA Examples</h4>
         </header>
         <img src="{{ './assets/images/pwa-examples-small.png' | relative_url }}" alt="PWA Examples">
