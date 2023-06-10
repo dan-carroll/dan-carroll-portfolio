@@ -79,7 +79,7 @@ page: projects
         </header>
         <img src="{{ './assets/images/Awesome GitHub Projects.png' | relative_url }}" alt="awesome github projects">
         <div class="content">
-            <p class="text-align-center"><a href="">Awesome GitHub Projects</a></p>
+            <p class="text-align-center"><a href="https://dan-carroll.github.io/Awesome-Projects/">Awesome GitHub Projects</a></p>
         </div>
         <footer class="text-align-center">
           <a href="https://github.com/dan-carroll/Awesome-Projects" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
